@@ -1,0 +1,6 @@
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P2_2_1204044\P2_2_1204044\bin\Debug\P2_2_1204044.exe.config
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P2_2_1204044\P2_2_1204044\bin\Debug\P2_2_1204044.exe
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P2_2_1204044\P2_2_1204044\bin\Debug\P2_2_1204044.pdb
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P2_2_1204044\P2_2_1204044\obj\Debug\P2_2_1204044.exe
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P2_2_1204044\P2_2_1204044\obj\Debug\P2_2_1204044.pdb
+C:\Users\user\OneDrive\Gambar\Dokumen\Visual Studio 2015\Projects\P2_2_1204044\P2_2_1204044\obj\Debug\P2_2_1204044.csprojResolveAssemblyReference.cache
